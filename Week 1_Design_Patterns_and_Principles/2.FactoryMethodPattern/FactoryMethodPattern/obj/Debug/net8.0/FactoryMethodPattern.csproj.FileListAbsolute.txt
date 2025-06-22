@@ -1,0 +1,29 @@
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.exe
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.deps.json
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.runtimeconfig.json
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.dll
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.pdb
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.dll
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\refint\FactoryMethodPattern.dll
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.pdb
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.genruntimeconfig.cache
+C:\Users\barma\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\ref\FactoryMethodPattern.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.exe
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.deps.json
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.runtimeconfig.json
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net8.0\FactoryMethodPattern.pdb
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.sourcelink.json
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\refint\FactoryMethodPattern.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.pdb
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\FactoryMethodPattern.genruntimeconfig.cache
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net8.0\ref\FactoryMethodPattern.dll

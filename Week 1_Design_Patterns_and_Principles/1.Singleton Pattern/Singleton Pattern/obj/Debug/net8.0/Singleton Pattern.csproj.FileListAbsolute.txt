@@ -1,0 +1,29 @@
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.exe
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.deps.json
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.runtimeconfig.json
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.dll
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.pdb
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.AssemblyInfoInputs.cache
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.AssemblyInfo.cs
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.csproj.CoreCompileInputs.cache
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.dll
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\refint\Singleton Pattern.dll
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.pdb
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.genruntimeconfig.cache
+C:\Users\barma\source\repos\Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\ref\Singleton Pattern.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.exe
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.deps.json
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.runtimeconfig.json
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\bin\Debug\net8.0\Singleton Pattern.pdb
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.AssemblyInfoInputs.cache
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.AssemblyInfo.cs
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.csproj.CoreCompileInputs.cache
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.sourcelink.json
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\refint\Singleton Pattern.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.pdb
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\Singleton Pattern.genruntimeconfig.cache
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\1.Singleton Pattern\Singleton Pattern\obj\Debug\net8.0\ref\Singleton Pattern.dll
