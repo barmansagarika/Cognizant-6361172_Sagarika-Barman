@@ -1,0 +1,29 @@
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\bin\Debug\net8.0\E-commerce Platform Search.exe
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\bin\Debug\net8.0\E-commerce Platform Search.deps.json
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\bin\Debug\net8.0\E-commerce Platform Search.runtimeconfig.json
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\bin\Debug\net8.0\E-commerce Platform Search.dll
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\bin\Debug\net8.0\E-commerce Platform Search.pdb
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.AssemblyInfoInputs.cache
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.AssemblyInfo.cs
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.csproj.CoreCompileInputs.cache
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.dll
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\refint\E-commerce Platform Search.dll
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.pdb
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.genruntimeconfig.cache
+C:\Users\barma\source\repos\E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\ref\E-commerce Platform Search.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\bin\Debug\net8.0\E-commerce Platform Search.exe
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\bin\Debug\net8.0\E-commerce Platform Search.deps.json
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\bin\Debug\net8.0\E-commerce Platform Search.runtimeconfig.json
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\bin\Debug\net8.0\E-commerce Platform Search.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\bin\Debug\net8.0\E-commerce Platform Search.pdb
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.AssemblyInfoInputs.cache
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.AssemblyInfo.cs
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.csproj.CoreCompileInputs.cache
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.sourcelink.json
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\refint\E-commerce Platform Search.dll
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.pdb
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\E-commerce Platform Search.genruntimeconfig.cache
+C:\Users\barma\practice-cognizant\Week1_Design Patterns and Principles\2.E-commerce Platform Search\E-commerce Platform Search\obj\Debug\net8.0\ref\E-commerce Platform Search.dll
