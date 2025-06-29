@@ -1,0 +1,22 @@
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\barma\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\barma\Desktop\Week 2\Week 2_NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
