@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\barma\\desktop\\week 4\\3.web api_handson\\swaggerdemoapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\barma\\desktop\\week 4\\3.web api_handson\\swaggerdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\barma\\desktop\\week 4\\3.web api_handson\\swaggerdemoapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\barma\\desktop\\week 4\\3.web api_handson\\swaggerdemoapi\\logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\barma\\desktop\\week 4\\3.web api_handson\\swaggerdemoapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\barma\\desktop\\week 4\\3.web api_handson\\swaggerdemoapi\\swaggerdemoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\swaggerdemoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\barma\\desktop\\week 4\\3.web api_handson\\swaggerdemoapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\barma\\desktop\\week 4\\3.web api_handson\\swaggerdemoapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|c:\\users\\barma\\desktop\\week 4\\3.web api_handson\\swaggerdemoapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46CEA58-0346-472F-A5C6-C962A4EC92BA}|SwaggerDemoAPI\\SwaggerDemoAPI.csproj|solutionrelative:swaggerdemoapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "logs.txt",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\logs.txt",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\logs.txt",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\logs.txt",
+              "RelativeToolTip": "SwaggerDemoAPI\\logs.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-13T17:53:05.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:35:58.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:16:43.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Program.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:13:03.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:37:06.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwaggerDemoAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\SwaggerDemoAPI.csproj",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\SwaggerDemoAPI.csproj",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\SwaggerDemoAPI.csproj",
+              "RelativeToolTip": "SwaggerDemoAPI\\SwaggerDemoAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T17:31:24.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:32:54.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Models\\Skill.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:32:26.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoAPI\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\3.Web API_HandsOn\\SwaggerDemoAPI\\Models\\Department.cs",
+              "RelativeToolTip": "SwaggerDemoAPI\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:31:57.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

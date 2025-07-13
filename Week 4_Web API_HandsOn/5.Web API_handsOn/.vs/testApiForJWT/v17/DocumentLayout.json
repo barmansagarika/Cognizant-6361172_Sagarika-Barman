@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|c:\\users\\barma\\desktop\\week 4\\5.web api_handson\\testapiforjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|solutionrelative:testapiforjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|c:\\users\\barma\\desktop\\week 4\\5.web api_handson\\testapiforjwt\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|solutionrelative:testapiforjwt\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|c:\\users\\barma\\desktop\\week 4\\5.web api_handson\\testapiforjwt\\testapiforjwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|solutionrelative:testapiforjwt\\testapiforjwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|c:\\users\\barma\\desktop\\week 4\\5.web api_handson\\testapiforjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|solutionrelative:testapiforjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|c:\\users\\barma\\desktop\\week 4\\5.web api_handson\\testapiforjwt\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|solutionrelative:testapiforjwt\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|c:\\users\\barma\\desktop\\week 4\\5.web api_handson\\testapiforjwt\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|solutionrelative:testapiforjwt\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|c:\\users\\barma\\desktop\\week 4\\5.web api_handson\\testapiforjwt\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|solutionrelative:testapiforjwt\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|c:\\users\\barma\\desktop\\week 4\\5.web api_handson\\testapiforjwt\\testapiforjwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62B4AB94-ADC4-40F6-99DD-BE139969592F}|testApiForJWT\\testApiForJWT.csproj|solutionrelative:testapiforjwt\\testapiforjwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "testApiForJWT.http",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\testApiForJWT.http",
+              "RelativeDocumentMoniker": "testApiForJWT\\testApiForJWT.http",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\testApiForJWT.http",
+              "RelativeToolTip": "testApiForJWT\\testApiForJWT.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-13T19:45:24.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Program.cs",
+              "RelativeDocumentMoniker": "testApiForJWT\\Program.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Program.cs",
+              "RelativeToolTip": "testApiForJWT\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAE0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:23:21.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "testApiForJWT\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "testApiForJWT\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:25:48.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "testApiForJWT\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "testApiForJWT\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:26:27.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "testApiForJWT\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Models\\Employee.cs",
+              "RelativeToolTip": "testApiForJWT\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:24:50.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "testApiForJWT\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Models\\Skill.cs",
+              "RelativeToolTip": "testApiForJWT\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:24:35.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "testApiForJWT\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\Models\\Department.cs",
+              "RelativeToolTip": "testApiForJWT\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:24:18.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "testApiForJWT.csproj",
+              "DocumentMoniker": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\testApiForJWT.csproj",
+              "RelativeDocumentMoniker": "testApiForJWT\\testApiForJWT.csproj",
+              "ToolTip": "C:\\Users\\barma\\Desktop\\Week 4\\5.Web API_handsOn\\testApiForJWT\\testApiForJWT.csproj",
+              "RelativeToolTip": "testApiForJWT\\testApiForJWT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T18:23:50.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
