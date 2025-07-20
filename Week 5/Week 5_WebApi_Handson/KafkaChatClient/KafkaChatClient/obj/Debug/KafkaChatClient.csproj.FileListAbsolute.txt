@@ -1,0 +1,80 @@
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.csproj.AssemblyReference.cache
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.Form1.resources
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.Properties.Resources.resources
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.csproj.GenerateResource.cache
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.csproj.CoreCompileInputs.cache
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\libcrypto-1_1.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\libcurl.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\librdkafka.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\libssl-1_1.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\msvcp140.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\vcruntime140.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\zlib1.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\zstd.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\libcrypto-1_1-x64.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\libcurl.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\librdkafka.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\libssl-1_1-x64.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\msvcp140.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\vcruntime140.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\zlib1.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\zstd.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\KafkaChatClient.exe.config
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\KafkaChatClient.exe
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\KafkaChatClient.pdb
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\Confluent.Kafka.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\System.Buffers.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\System.Memory.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\Confluent.Kafka.xml
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\System.Buffers.xml
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\System.Memory.xml
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaCha.706AE999.Up2Date
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.exe
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.pdb
+C:\Users\barma\source\repos\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.exe.config
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\libcrypto-1_1.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\libcurl.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\librdkafka.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\libssl-1_1.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\msvcp140.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\vcruntime140.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\zlib1.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x86\zstd.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\libcrypto-1_1-x64.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\libcurl.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\librdkafka.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\libssl-1_1-x64.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\msvcp140.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\vcruntime140.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\zlib1.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\librdkafka\x64\zstd.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\KafkaChatClient.exe.config
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\KafkaChatClient.exe
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\KafkaChatClient.pdb
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\Confluent.Kafka.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\System.Buffers.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\System.Memory.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\Confluent.Kafka.xml
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\System.Buffers.xml
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\System.Memory.xml
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.csproj.AssemblyReference.cache
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.exe.config
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.Form1.resources
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.Properties.Resources.resources
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.csproj.GenerateResource.cache
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.csproj.CoreCompileInputs.cache
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaCha.706AE999.Up2Date
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.exe
+C:\Users\barma\Desktop\Week 5\Week 5_WebApi_Handson\KafkaChatClient\KafkaChatClient\obj\Debug\KafkaChatClient.pdb
