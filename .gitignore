@@ -1,0 +1,21 @@
+# Ignore Node.js folders
+node_modules/
+build/
+dist/
+
+# Ignore .NET build folders
+bin/
+obj/
+
+# Ignore log files and temporary data
+*.log
+*.tmp
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+*.user
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
