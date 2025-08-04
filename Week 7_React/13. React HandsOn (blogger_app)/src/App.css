@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 3rem 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  flex: 1;
+  padding: 0 1rem;
+}
+
+.divider {
+  width: 4px;
+  background-color: green;
+  margin: 0 2rem;
+  align-self: stretch; 
+}
